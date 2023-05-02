@@ -1,18 +1,21 @@
 
 # Hello, my name is Carlos Osorio 👋
-#### I'm **Android Developer**
+#### I'm **Mobile Developer**
 I am a young man who is passionate about new technological trends. I like to investigate and put into practice what I have learned. I like to develop quality software following good practices and standards, to generate a good product.
 
 I like to go trekking, play video games and read comics.
 
 ### Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin/Java-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Apple-F05238?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FF5B00?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/xcode-2E70C3?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
 ### Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlosalfredoosorioperez/)
+[![LinkedIn](https://img.shields.io/badge/Medium-Hacybeyker-0077B5?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@hacybeyker)
 
 ### Portfolio
 <table>
@@ -36,8 +39,8 @@ I like to go trekking, play video games and read comics.
 ### Github Report
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hacybeyker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hacybeyker&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Hacybeyker">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hacybeyker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hacybeyker&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
